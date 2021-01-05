@@ -1,0 +1,43 @@
+body{
+    font-family: 'East Sea Dokdo', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    padding-left: 50px;
+    color: rgb(255, 255, 255);
+}
+.top-banner{
+   height: 600px; 
+   background-image: url(images/download\ \(1\).png);
+   background-repeat: no-repeat;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+img{
+    width: 100%;
+}
+.middle-banner{
+    margin-top: 150px;
+}
+.color-highlight{
+    color: blue;
+}
+.web-color{
+    color: rgba(228, 72, 10, 0.986);
+}
+p{
+    font-size: 25px;
+}
